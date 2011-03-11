@@ -1,0 +1,1 @@
+[31mCould not find gem 'webrat (= 0.7.1)' in any of the gem sources listed in your Gemfile.[0m
